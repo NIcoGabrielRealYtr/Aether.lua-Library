@@ -1,6 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/NIcoGabrielRealYtr/Aether.lua-Library/refs/heads/main/Source"))()
 
--- Create window
 local MainWindow = Library:CreateWindow({
     Title = "Title",
     SubText = "SubTitle",
